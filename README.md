@@ -1,4 +1,4 @@
-# XDe Workshop Home Page
+# Mindext Workshop Home Page
 
 Check GitHub Pages Dependency versions:
 

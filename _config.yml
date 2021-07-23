@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: XDe Workshop
-email: xdetech@outlook.com
-description: XDe Workshop 相德软件开发工作室
+title: Mindext Workshop
+email: mind.ext@outlook.com
+description: Mindext Workshop 相德软件开发工作室
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xdesign.tech"
+url: "https://mindext.net"
 author: Roger
 lang: zh_CN
 # twitter:
-#   username: xdetech
+#   username: mindext
 #   card: summary
 
 # social:
-#   name: XDeWorkshop
+#   name: mindext
 #   links:
-#     - https://weibo.com/XDeWorkshop
+#     - https://weibo.com/mindext
 
 # Build settings
 
